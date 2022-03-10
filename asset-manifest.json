@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/reactkanban/static/js/main.7897bab4.chunk.js",
+    "main.js.map": "/reactkanban/static/js/main.7897bab4.chunk.js.map",
+    "runtime~main.js": "/reactkanban/static/js/runtime~main.a4ed7714.js",
+    "runtime~main.js.map": "/reactkanban/static/js/runtime~main.a4ed7714.js.map",
+    "static/js/2.ff47b5f2.chunk.js": "/reactkanban/static/js/2.ff47b5f2.chunk.js",
+    "static/js/2.ff47b5f2.chunk.js.map": "/reactkanban/static/js/2.ff47b5f2.chunk.js.map",
+    "index.html": "/reactkanban/index.html",
+    "precache-manifest.03cfc96a6d8b10148929140d98000e6e.js": "/reactkanban/precache-manifest.03cfc96a6d8b10148929140d98000e6e.js",
+    "service-worker.js": "/reactkanban/service-worker.js"
+  }
+}
